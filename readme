@@ -1,0 +1,8 @@
+Test are run with
+./vendor/bin/phpunit
+
+Running command in terminal with
+./command.php -f your_first_string -s your_second_string
+
+Running built-in server with
+php -S 127.0.0.1:80 -t path_to_the_project_root

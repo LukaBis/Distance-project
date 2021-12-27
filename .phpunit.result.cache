@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"HammingTest::test1":3,"LevenshteinTest::test1":4,"LevenshteinTest::test2":4,"LevenshteinTest::test3":3},"times":{"Warning":0.003,"HammingTest::test1":0.003,"HammingTest::test2":0,"HammingTest::test3":0,"LevenshteinTest::test1":0,"LevenshteinTest::test2":0,"LevenshteinTest::test3":0}}
